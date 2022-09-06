@@ -1,7 +1,10 @@
 package com.atguigu.shuqi;
 
 public class test1 {
-
+    public static void main(String[] args) {
+        test3 t = new test3(1,"浩浩");
+        System.out.println(t.getName());
+    }
 }
 
 
