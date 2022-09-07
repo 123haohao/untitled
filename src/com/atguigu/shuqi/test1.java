@@ -5,10 +5,7 @@ public class test1 {
         test3 t1 = new test3(1,"浩浩");
         test3 t2 = new test3(2,"沙伯");
         System.out.println(t1.getName());
-        System.out.println("hot-fix");
-        System.out.println("world");
-        System.out.println("hello");
-        System.out.println(123);
+      
     }
 }
 
