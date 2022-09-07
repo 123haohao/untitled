@@ -7,6 +7,7 @@ public class test1 {
         System.out.println(t1.getName());
         System.out.println("hot-fix");
         System.out.println("world");
+        System.out.println("hello");
     }
 }
 
