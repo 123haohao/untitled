@@ -6,6 +6,7 @@ public class test1 {
         test3 t2 = new test3(2,"沙伯");
         System.out.println(t1.getName());
         System.out.println("hot-fix");
+        System.out.println("world");
     }
 }
 
