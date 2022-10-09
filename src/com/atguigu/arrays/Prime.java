@@ -1,3 +1,5 @@
+package com.atguigu.arrays;
+
 class Prime {
     public static void main(String[] args) {
         Prime a = new Prime();

@@ -1,4 +1,4 @@
-package com.atguigu.practise;
+package com.atguigu.project1;
 
 import java.util.Scanner;
 

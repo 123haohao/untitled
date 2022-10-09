@@ -1,4 +1,4 @@
-package com.atguigu.practise;
+package com.atguigu.project1;
 
 public class FamilyAccount {
     public static void main(String[] args) {
